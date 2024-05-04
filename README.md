@@ -37,10 +37,14 @@ To run this project locally:
 This web application allows you to view and post customer reviews and feedback. Browse throught the reviews posted, and enjoy a simple yet effective platform for user feedback.
 
 ### Screenshot
-!Customer Reviews Page Screenshot
+#### Mobile
+![screenshot-2](https://github.com/ohanote/CustomerReview/assets/125034922/71e3efb3-2090-45ce-af12-f4e6602ce713)
 
-Contributing
+#### PC/Computer
+![screenshot-1](https://github.com/ohanote/CustomerReview/assets/125034922/1522e5b8-0e63-4ff3-b992-e3a425fbc444)
+
+## Contributing
 We welcome contributions from everyone. Feel free to open an issue or submit a pull request.
 
-License
+## License
 This project is open source and available under the MIT License.
