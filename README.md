@@ -4,6 +4,9 @@
 
 Customer Reviews Page is a user-friendly web application designed to display and collect customer reviews. Built with modern web technologies, it offers a seamless experience for showcasing user feedback.
 
+You can access the final result here:
+https://github.com/ohanote/CustomerReview/deployments/github-pages
+
 ## Features
 
 - **Responsive Design**: Utilizes Tailwind CSS for a responsive layout that looks great on all devices.
